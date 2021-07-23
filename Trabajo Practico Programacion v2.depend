@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1603811152 source:c:\users\alanr\music\trabajo practico programacion v2\carton.c
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+	"Carton.h"
+
+1603815257 c:\users\alanr\music\trabajo practico programacion v2\jugador.h
+	"Carton.h"
+
+1603810913 c:\users\alanr\music\trabajo practico programacion v2\carton.h
+
+1603817345 source:c:\users\alanr\music\trabajo practico programacion v2\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Jugador.h"
+
+1603815960 source:c:\users\alanr\music\trabajo practico programacion v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+	"Carton.h"
+	<windows.h>
+	<time.h>
+
+1603811152 source:c:\users\edume\desktop\trabajo practico programacion v2\carton.c
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+	"Carton.h"
+
+1603820295 c:\users\edume\desktop\trabajo practico programacion v2\jugador.h
+	"Carton.h"
+
+1603810913 c:\users\edume\desktop\trabajo practico programacion v2\carton.h
+
+1603821946 source:c:\users\edume\desktop\trabajo practico programacion v2\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Jugador.h"
+
+1603820309 source:c:\users\edume\desktop\trabajo practico programacion v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+	"Carton.h"
+	<windows.h>
+	<time.h>
+
+1604058358 source:c:\users\edume\desktop\trabajo practico programacion v3\carton.c
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+	"Carton.h"
+
+1604059883 c:\users\edume\desktop\trabajo practico programacion v3\jugador.h
+	"Carton.h"
+
+1604059883 c:\users\edume\desktop\trabajo practico programacion v3\carton.h
+
+1604059547 source:c:\users\edume\desktop\trabajo practico programacion v3\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Jugador.h"
+
+1603820309 source:c:\users\edume\desktop\trabajo practico programacion v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+	"Carton.h"
+	<windows.h>
+	<time.h>
+
+1604058358 source:c:\users\alanr\downloads\documentos\trabajo practico programación\carton.c
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+	"Carton.h"
+
+1604059883 c:\users\alanr\downloads\documentos\trabajo practico programación\jugador.h
+	"Carton.h"
+
+1604059883 c:\users\alanr\downloads\documentos\trabajo practico programación\carton.h
+
+1607133422 source:c:\users\alanr\downloads\documentos\trabajo practico programación\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Jugador.h"
+
+1603820309 source:c:\users\alanr\downloads\documentos\trabajo practico programación\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Jugador.h"
+	"Carton.h"
+	<windows.h>
+	<time.h>
+
